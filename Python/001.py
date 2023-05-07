@@ -1,7 +1,9 @@
-vendas = 1000
+vendas = 2000
 
 custo = 300
 
-lucro = vendas - custo🥌
+lucro = vendas - custo
 
-print(lucro)
+print("O lucro foi de:", lucro, "As vendas foram de:", vendas)
+
+
